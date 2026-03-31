@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "AI Resume Builder",
+    "description": "Create professional resumes with AI-driven content suggestions and modern templates.",
+    "price": 19.99,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "Best Seller",
+    "features": ["10+ Templates", "AI Optimizer", "PDF Export"],
+    "icon": "/products/writing_2327400 1.png"
+  },
+  {
+    "id": 2,
+    "name": "SEO Strategy Suite",
+    "description": "Comprehensive tools for keyword research and search engine rank tracking.",
+    "price": 49.00,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "High Rated",
+    "features": ["Keyword Research", "Competitor Analysis", "Rank Tracking"],
+    "icon": "/products/operation.png"
+  },
+  {
+    "id": 3,
+    "name": "Creative Portfolio Pro",
+    "description": "Build a stunning portfolio to showcase your creative work to the world.",
+    "price": 25.00,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "Popular",
+    "features": ["Grid Layouts", "Dark Mode", "Custom Domain"],
+    "icon": "/products/portfolio.png"
+  },
+  {
+    "id": 4,
+    "name": "Social Media Manager",
+    "description": "Schedule posts and analyze engagement across all major platforms.",
+    "price": 30.00,
+    "period": "monthly",
+    "tag": "efficient",
+    "tagType": "New Arrival",
+    "features": ["Auto Scheduling", "Analytics Dashboard", "Multi-Account Support"],
+    "icon": "/products/social-media.png"
+  },
+  {
+    "id": 5,
+    "name": "Digital Design Hub",
+    "description": "The ultimate resource center for modern web and mobile design assets.",
+    "price": 99.00,
+    "period": "yearly",
+    "tag": "value",
+    "tagType": "Premium Choice",
+    "features": ["500+ Assets", "Weekly Updates", "Vector Support"],
+    "icon": "/products/design-tool.png"
+  },
+  {
+    "id": 6,
+    "name": "E-commerce Toolkit",
+    "description": "Everything you need to launch and optimize your online store.",
+    "price": 59.00,
+    "period": "monthly",
+    "tag": "essential",
+    "tagType": "Featured",
+    "features": ["Conversion Tracking", "Store Templates", "Payment Hooks"],
+    "icon": "/products/shopping-cart.png"
+  },
+  {
+    "id": 7,
+    "name": "AI Content Writer",
+    "description": "Generate high-quality blog posts and copy in seconds using GPT.",
+    "price": 0,
+    "period": "Free Trial",
+    "tag": "trial",
+    "tagType": "Limited Offer",
+    "features": ["Blog Generation", "Grammar Check", "Tone Settings"],
+    "icon": "/products/writing_2327400 1.png"
+  },
+  {
+    "id": 8,
+    "name": "Task Automator Pro",
+    "description": "Automate repetitive tasks between your favorite apps and services.",
+    "price": 15.00,
+    "period": "monthly",
+    "tag": "productivity",
+    "tagType": "Efficiency King",
+    "features": ["No-Code Builder", "100+ Integrations", "Real-time Sync"],
+    "icon": "/products/operation.png"
+  }
+]
